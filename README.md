@@ -27,7 +27,7 @@ This is a web application that takes 2D floor plans as input and generates 3D mo
 
 ## Development Plan
 
-**Phase 1: Data Collection and Neural Network Training** _(approx. 2-3 months)_
+**Phase 1: Data Collection and Neural Network Training** _(ongoing)_
 
 - Collect 2D floorplan images and corresponding 3D models for training data
 - Implement a neural network using TensorFlow / PyTorch
@@ -50,7 +50,7 @@ This is a web application that takes 2D floor plans as input and generates 3D mo
 - Perform extensive testing to ensure everything is working as expected
 - Deploy the application on AWS
 
-**Phase 5: Maintenance and Updates** _(ongoing)_
+**Phase 5: Maintenance and Updates** _(approx. 2-3 months)_
 
 - Monitor the application for any issues
 - Continually improve the model based on user feedback
